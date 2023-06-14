@@ -23,6 +23,7 @@ Once you have opened the tool, you are able to use it to pack textures.
   - ...
 - **Virtual Texture :** Check it if you want to use this generated asset as virtual texture.
 
-Per channel settings :
+Per channel settings (red = R, green = G, blue = B, white = A) :
 - **Use Export Path :** Check it if you want to export the generated texture at this texture channel location in content browser. If uncheck, texture will be exported at the root of your content.
 - **Multiplier :** Intensity of the current channel texture. Put this value at 0 with the default white texture to make a black channel.
+- **Texture :** The texture you want to place in channel.
