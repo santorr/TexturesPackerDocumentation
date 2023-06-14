@@ -44,3 +44,4 @@ I want to keep the following naming convention (T_TextureName_TextureDesignation
 Finally I checked the 'Use Export path' on the red channel to export this texture at the content location of the red channel texture.
 
 ![alt text](/src/2.png)
+![alt text](/src/3.png)
