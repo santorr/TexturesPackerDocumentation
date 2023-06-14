@@ -22,3 +22,7 @@ Once you have opened the tool, you are able to use it to pack textures.
   - If you pack as a normal map destination, select 'Normalmap'
   - ...
 - **Virtual Texture :** Check it if you want to use this generated asset as virtual texture.
+
+Per channel settings :
+- **Use Export Path :** Check it if you want to export the generated texture at this texture channel location in content browser. If uncheck, texture will be exported at the root of your content.
+- **Multiplier :** Intensity of the current channel texture. Put this value at 0 with the default white texture to make a black channel.
