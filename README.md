@@ -14,7 +14,7 @@ Once you have opened the tool, you are able to use it to pack textures.
 
 ![alt text](/src/1.png)
 
-- **Resolution width / heigh :** Choose a desired resolution (it will be the width and height of the generated texture). To maximize the tool's effectiveness, make sure that the dimensions chosen are not larger than the dimensions of the textures that will be used for the pack.
+- **Resolution width / heigh :** This is the resolution x, y of the generated texture. To maximize the tool's effectiveness, make sure that the dimensions chosen are not larger than the dimensions of the textures that will be used for the pack.
 - Choose a texture name.
 - Set the compression settings. 
   - If you want to pack RGB (base  color) with Alpha, select 'Default'
