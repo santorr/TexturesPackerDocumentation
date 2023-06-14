@@ -16,7 +16,7 @@ Once you have opened the tool, you are able to use it to pack textures.
 
 ### Global settings
 
-All settings setup in the global field can be changed later in the texture editor.
+**Those settings can be changed after texture creation : name, compression settings, virtual texture.**
 
 - **Resolution width / heigh :** This is the resolution x, y of the generated texture. To maximize the tool's effectiveness, make sure that the dimensions chosen are not larger than the dimensions of the textures that will be used for the pack (textures size are displayed in each channel).
 - **Texture Name :** The name of the exported texture.
