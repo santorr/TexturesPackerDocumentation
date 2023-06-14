@@ -21,3 +21,4 @@ Once you have opened the tool, you are able to use it to pack textures.
   - For an individual channels usage in material (R = occlusion, G = roughness, B = displacement ...), select 'Masks'
   - If you pack as a normal map destination, select 'Normalmap'
   - ...
+- Check 'Virtual texture' if you want to use this generated asset as virtual texture.
