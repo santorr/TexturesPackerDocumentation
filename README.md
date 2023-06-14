@@ -31,3 +31,9 @@ Per channel settings (red = R, green = G, blue = B, white = A) :
 - **Use Export Path :** Check it if you want to export the generated texture at this texture channel location in content browser. If uncheck, texture will be exported at the root of your content.
 - **Multiplier :** Intensity of the current channel texture. Put this value at 0 with the default white texture to make a black channel.
 - **Texture :** The texture you want to place in channel.
+- **Channel :** Choose a channel to extract from the property 'Texture'.
+
+Then press 'Generate texture'.
+
+## Example
+
