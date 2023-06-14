@@ -10,6 +10,8 @@
 
 ## Using the tool
 
+Once you have opened the tool, you are able to use it to pack textures.
+
 ![alt text](/src/1.png)
 
-- Once you opened the tool, you are able to use it to pack textures.
+- Choose a desired resolution.
