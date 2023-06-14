@@ -1,5 +1,6 @@
 # Textures Packer Documentation
 Texture packer is a tool that allow you to pack textures directly in engine. This tool is useful if you want to download assets from different sources that have not had the same production process.
+It's easy to use and lets you optimize projects with just a few clicks.
 
 ## Open the tool
 
