@@ -37,3 +37,4 @@ Then press 'Generate texture'.
 
 ## Example
 
+![alt text](/src/2.png)
