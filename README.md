@@ -1,5 +1,5 @@
 # TexturesPackerTutorial
 
-1 - Open the tool
+## Open the tool
 
 ![alt text](/src/0.png)
